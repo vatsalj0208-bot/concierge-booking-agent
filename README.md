@@ -1,2 +1,2 @@
-# Concierge Booking Agent  
-Initial commit  
+# Concierge Booking Agent
+Minimal multi-agent capstone project.

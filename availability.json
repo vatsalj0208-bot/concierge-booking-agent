@@ -1,0 +1,19 @@
+{
+  "doctor": [
+    "10 AM",
+    "2 PM"
+  ],
+  "salon": [
+    "1 PM",
+    "4 PM"
+  ],
+  "repair": [
+    "11 AM",
+    "3 PM"
+  ],
+  "general": [
+    "10 AM",
+    "1 PM",
+    "4 PM"
+  ]
+}
